@@ -2,6 +2,8 @@
 
 A bot that makes your twitter links better
 
+https://github.com/LTurret/FixTwitterEmbed/assets/22392956/40215909-fd3e-453a-a8a2-838df3894920
+
 ## Prerequests
 
 ```plaintext
