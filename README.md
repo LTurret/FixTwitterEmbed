@@ -4,7 +4,7 @@ A bot that makes your twitter links better
 
 https://github.com/LTurret/FixTwitterEmbed/assets/22392956/40215909-fd3e-453a-a8a2-838df3894920
 
-## Prerequests
+## Requirements
 
 ```plaintext
 aiohttp==3.8.6
@@ -23,3 +23,7 @@ tomli==2.0.1
 typing_extensions==4.8.0
 yarl==1.9.2
 ```
+
+## License
+
+Licensed under [MIT](LICENSE).
