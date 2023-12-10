@@ -24,6 +24,20 @@ typing_extensions==4.8.0
 yarl==1.9.2
 ```
 
+## Running
+
+### Local
+
+```shell
+python3 -B main.py
+```
+
+### pm2
+
+```shell
+pm2 start main.py --name "arisa" --interpreter "python3" --interpreter-args "-B"
+```
+
 ## License
 
 Licensed under [MIT](LICENSE).
